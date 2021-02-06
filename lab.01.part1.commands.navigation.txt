@@ -387,7 +387,8 @@ Owners-MBP
 28. Make sure you're back in your mtec1003, which should be in your home folder.  What command would you use to find out if you're in the right folder?  Write the command below, then run it.
 ----------
 
-
+$ cd mtec1003
+  pwd 
 
 
 
@@ -542,3 +543,4 @@ a directory is a cataloging structure on a file system that refrences other file
 ==========
 42. What's the *absolute* path (full path, starting at root) to your user's Downloads directory?
 ----------
+/Users/downloads
