@@ -219,7 +219,7 @@ $ ls
 Copy and paste the output below.
 ----------
 
-
+animal food 
 
 
 
@@ -233,7 +233,7 @@ $ ls
 Copy and paste the output below.
 ----------
 
-
+animals	foo	food
 
 
 
@@ -247,7 +247,7 @@ $ pwd
 Copy and paste the output below.
 ----------
 
-
+/Users/owner/mtec1003/foo/bar/baz/qux 
 
 
 
@@ -261,7 +261,7 @@ $ pwd
 Copy and paste the output below.
 ----------
 
-
+/Users/owner/mtec1003/foo/bar
 
 
 
@@ -275,7 +275,7 @@ $ pwd
 Copy and paste the output below.
 ----------
 
-
+/Users/owner/mtec1003/foo/bar/baz/qux 
 
 
 
@@ -289,7 +289,7 @@ $ pwd
 Copy and paste the output below.
 ----------
 
-
+/Users/owner/mtec1003
 
 
 
@@ -304,7 +304,9 @@ $ ls -l
 Copy and paste the first 3 lines from the output into the space below.
 ----------
 
-
+drwxr-xr-x  4 owner  staff  128 Feb  6 16:27 foo
+drwxr-xr-x  2 owner  staff   64 Feb  6 16:24 food
+Owners-MBP:mtec1003
 
 
 
@@ -318,7 +320,8 @@ $ pwd
 Copy and paste the output into the space below.
 ----------
 
-
+/Users/owner
+Owners-MBP:~ owner$
 
 
 
@@ -331,7 +334,7 @@ $ pwd
 
 Copy and paste the output into the space below.
 ----------
-
+/Users/owner
 
 
 
@@ -346,7 +349,7 @@ $ pwd
 Copy and paste the output into the space below.
 ----------
 
-
+/Users/owner
 
 
 
@@ -360,6 +363,7 @@ $ pwd
 Copy and paste the output into the space below.
 ----------
 
+/Users/owner/mtec1003
 
 
 
@@ -373,13 +377,14 @@ $ hostname
 Copy and paste the output into the space below.
 ----------
 
+Owners-MBP
 
 
 
 
 
 ==========
-28. Make sure you're back in your mtec1002, which should be in your home folder.  What command would you use to find out if you're in the right folder?  Write the command below, then run it.
+28. Make sure you're back in your mtec1003, which should be in your home folder.  What command would you use to find out if you're in the right folder?  Write the command below, then run it.
 ----------
 
 
@@ -413,7 +418,7 @@ lemon
 Write the one command you used below:
 ----------
 
-
+$ mkdr -p pineapple/orange/strawberry/lemon
 
 
 
@@ -424,7 +429,8 @@ Write the one command you used below:
 Write the command you used to create the directory below:
 ----------
 
-
+$ mkdir aardvark
+  ls
 
 
 
@@ -434,6 +440,7 @@ Write the command you used to create the directory below:
 
 What is the modified date of the aardvark directory?
 ----------
+
 
 
 
@@ -450,7 +457,7 @@ What is the modified date of the aardvark directory?
 What command did you use?
 ----------
 
-
+$ mkdir -p foo/bar/baz
 
 
 
@@ -460,7 +467,8 @@ What command did you use?
 
 What command did you use?
 ----------
-
+$ cd baz 
+  pwd
 
 
 
@@ -472,7 +480,7 @@ What command did you use?
 What command did you use?
 ----------
 
-
+$  cd ../..
 
 
 
@@ -481,7 +489,7 @@ What command did you use?
 36. What command is used to delete empty directories?
 ----------
 
-
+rmdir
 
 
 
@@ -490,7 +498,7 @@ What command did you use?
 37. What command is used to print out your current working directory?
 ----------
 
-
+pwd
 
 
 
@@ -499,7 +507,7 @@ What command did you use?
 38. What flag do I pass to ls to print out all files?
 ----------
 
-
+-a
 
 
 
@@ -508,7 +516,7 @@ What command did you use?
 39. What's the shortcut for home directory?
 ----------
 
-
+~(tilde)
 
 
 
@@ -517,7 +525,7 @@ What command did you use?
 40. What's a pathname?
 ----------
 
-
+a pathname is the general form of the name of a file or directory; it specifies a unique location in a file system 
 
 
 
@@ -526,7 +534,7 @@ What command did you use?
 41. What is a directory?
 ----------
 
-
+a directory is a cataloging structure on a file system that refrences other files (and directories)
 
 
 
