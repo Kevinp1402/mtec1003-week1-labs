@@ -210,7 +210,22 @@ List the contents of your home directory to prove that the directory was created
 Copy and paste the output below.
 ----------
 
-
+Applications
+Creative Cloud Files
+Desktop
+Documents
+Downloads
+Dropbox
+Kevin.pintado@mail.citytech.cuny.edu Creative Cloud Files
+Library
+Movies
+Music
+Pictures
+Public
+food
+mtec1003
+mygoogle.html
+stuff
 
 
 ==========
@@ -225,7 +240,7 @@ List the files in the directory you're currently in (which should be stuff).
 Copy and paste the output below.
 ----------
 
-
+hello.txt
 
 ==========
 14. Go up one directory back into your home directory.
@@ -238,7 +253,23 @@ List the files in the directory you're currently in (which should be home).
 Copy and paste the output below.
 ----------
 
-
+Applications
+Creative Cloud Files
+Desktop
+Documents
+Downloads
+Dropbox
+Kevin.pintado@mail.citytech.cuny.edu Creative Cloud Files
+Library
+Movies
+Music
+Pictures
+Public
+food
+mtec1003
+mygoogle.html
+stuff
+stuff.tar
 
 
 ==========
@@ -250,7 +281,23 @@ $ tar -cvf stuff.tar stuff
 Copy and paste the output below.
 ----------
 
-
+Applications
+Creative Cloud Files
+Desktop
+Documents
+Downloads
+Dropbox
+Kevin.pintado@mail.citytech.cuny.edu Creative Cloud Files
+Library
+Movies
+Music
+Pictures
+Public
+food
+mtec1003
+mygoogle.html
+stuff
+stuff.tar
 
 
 
@@ -263,7 +310,23 @@ gzip stuff.tar
 List your files again.... you should have a new file with a .gz extension.
 Copy and paste the output of your this below.
 ----------
-
+Applications
+Creative Cloud Files
+Desktop
+Documents
+Downloads
+Dropbox
+Kevin.pintado@mail.citytech.cuny.edu Creative Cloud Files
+Library
+Movies
+Music
+Pictures
+Public
+food
+mtec1003
+mygoogle.html
+stuff
+stuff.tar.gz
 
 
 
@@ -275,3 +338,20 @@ $ tar -xvf stuff.tar.gz
 
 List the files.  Copy and paste the output below (the folder, stuff, should be there).
 ----------
+Applications
+Creative Cloud Files
+Desktop
+Documents
+Downloads
+Dropbox
+Kevin.pintado@mail.citytech.cuny.edu Creative Cloud Files
+Library
+Movies
+Music
+Pictures
+Public
+food
+mtec1003
+mygoogle.html
+stuff
+stuff.tar.gz
